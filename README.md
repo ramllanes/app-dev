@@ -17,8 +17,4 @@ This document showcases my **favorite movies**, formatted using various Markdown
 
 ---
 
-## 4. Jigsaw
-
----
-
-## 5. The Invisible Man
+## 4. The Invisible Man
